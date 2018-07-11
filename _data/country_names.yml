@@ -2,7 +2,7 @@
   index: 'map_1'
   country_name: 'AFGHANISTAN'
   # country_name: 'AFGHANISTAN<br><span style="color: yellow;">*Link each country to any webpage*</span>'
-  visited: false
+  visited: true
 
 -
   index: 'map_2'
@@ -92,7 +92,7 @@
 -
   index: 'map_19'
   country_name: 'BOLIVIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_20'
